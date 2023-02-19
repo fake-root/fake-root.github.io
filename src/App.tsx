@@ -16,7 +16,7 @@ function App() {
         하는 루트 인증 기관(Root CA) 인증서 목록입니다.{" "}
         <a
           className="font-bold text-sky-500 hover:underline decoration-sky-500 decoration-2"
-          href="https://github.com/fake-root/fake-root.github.io/issues/new"
+          href="https://github.com/fake-root/fake-root.github.io/issues/new/choose"
           target="_blank"
           rel="noopener noreferrer"
         >
