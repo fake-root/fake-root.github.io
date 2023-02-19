@@ -1,0 +1,40 @@
+name: Report a new CA
+description: 신규 인증 기관 제보
+title: "[CA]: "
+labels: ["CA"]
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Name
+      description: 이름
+      placeholder: Korea ROOT CA
+    validations:
+      required: true
+  - type: markdown
+    attributes:
+      value: "## 하나 이상 답변 부탁드립니다. Please fill out more than one item below."
+  - type: input
+    id: app
+    attributes:
+      label: Application Name
+      description: 프로그램 명
+      placeholder: Korea Security
+  - type: input
+    id: usage
+    attributes:
+      label: Site Name/URL
+      description: 사이트 명/주소
+      placeholder: Korea Bank (https://koreabank.example/)
+  - type: input
+    id: fingerprint
+    attributes:
+      label: SHA-1 Fingerprint
+      description: SHA-1 지문
+      placeholder: a94a8fe5ccb19ba61c4c0873d391e987982fbbd3
+  - type: textarea
+    id: attachment
+    attributes:
+      label: Attachments
+      description: 첨부파일
+      placeholder: PEM/CRT/CER/DER file
