@@ -47,15 +47,11 @@ function App() {
                   {c.fingerprint in USAGES && (
                     <a
                       className="text-sky-500 hover:underline decoration-sky-500 decoration-2"
-                      // @ts-expect-error
                       href={USAGES[c.fingerprint].url}
                       target="_blank"
                       rel="noopener noreferrer nofollow"
                     >
-                      {
-                        // @ts-expect-error
-                        USAGES[c.fingerprint].name
-                      }
+                      {USAGES[c.fingerprint].name}
                     </a>
                   )}
                 </td>
