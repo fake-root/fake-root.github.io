@@ -19,6 +19,22 @@
     "name": "MarkAny e-Page SAFER",
     "url": "https://www.markany.com/"
   },
+  "293d91955c869c9177b7a3d439e5da781809688f": {
+    "name": "Ksign KCaseAgent",
+    "url": "http://www.ksign.com/"
+  },
+  "396c474749954e83edc9f552538b40a198a55742": {
+    "name": "UbiReport UbiViewerWS",
+    "url": "https://www.ubireport.com/"
+  },
+  "3f28b60d2a09ef2397bd725b9976cd7fd304f356": {
+    "name": "NAGOSOFT Printmade",
+    "url": "http://www.nagosoft.com/"
+  },
+  "45fbd9e12fe8d03f2e7e7768138a9eec5e7363b6": {
+    "name": "Infotech ExAdapter NxWeb",
+    "url": "https://www.infotech.co.kr/"
+  },
   "61e0406de1a3fa0f878e629a67a11033f2f2a391": {
     "name": "MarkAny e-Page SAFER",
     "url": "https://www.markany.com/"
@@ -38,6 +54,10 @@
   "7972d337bfc4775ceed41080885a209c1ed0c89a": {
     "name": "CrossCert UniSign",
     "url": "https://solution.crosscert.com/"
+  },
+  "981eb0473e2e78443481f4aeb8b7a58f694fd53e": {
+    "name": "Finger FSWSS",
+    "url": "https://www.finger.co.kr/"
   },
   "9a52cd487f8352baab91f78d2963f58511e59f59": {
     "name": "SoftCamp SecureKeyStroke",
@@ -59,9 +79,17 @@
     "name": "KeySharp CertRelay",
     "url": "https://www.raonsecure.com/"
   },
+  "b4506ffb4e04ac1a185ae925af2fc195a6251b8c": {
+    "name": "Ksign KCaseAgent",
+    "url": "http://www.ksign.com/"
+  },
   "b63b2114434a455bb9ca434f0b315b31595d839c": {
     "name": "VPWalletService",
     "url": "https://www.vpay.co.kr/"
+  },
+  "ba568051cf89f63ad6bd803dc8bc244427d49f9a": {
+    "name": "AlphaSecure ZeroKeeper",
+    "url": "https://www.securelink.co.kr/"
   },
   "c85ca378d35f9b950a84bf7bd583edbbf3294b58": {
     "name": "TrustPKI Enterprise",

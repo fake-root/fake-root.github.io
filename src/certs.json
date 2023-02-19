@@ -50,6 +50,46 @@
     "signature": "sha256WithRSA"
   },
   {
+    "name": "KSIGN CO. LTD. CA2",
+    "serialNumber": "00af8b2392e618748a",
+    "fingerprint": "293d91955c869c9177b7a3d439e5da781809688f",
+    "fingerprint256": "5a9500b0567d00ad0355172a570a0cf62d013edc287c2321702dc4f60b99afa4",
+    "validFrom": "Jan  5 05:56:05 2018 GMT",
+    "validTo": "Dec 31 05:56:05 2037 GMT",
+    "publicKey": "RSA 2048",
+    "signature": "sha256WithRSA"
+  },
+  {
+    "name": "UbiViewerWS CA",
+    "serialNumber": "01",
+    "fingerprint": "396c474749954e83edc9f552538b40a198a55742",
+    "fingerprint256": "02e149314338753ae2f2c4d56ddf1e61dde14ca8ff461269cfd38d4ed4b33fca",
+    "validFrom": "May 18 00:35:00 2017 GMT",
+    "validTo": "May 16 00:35:00 2027 GMT",
+    "publicKey": "RSA 2048",
+    "signature": "sha256WithRSA"
+  },
+  {
+    "name": "Nagosoft",
+    "serialNumber": "00ae32349bd55d0fb4",
+    "fingerprint": "3f28b60d2a09ef2397bd725b9976cd7fd304f356",
+    "fingerprint256": "15d4ef653225835f9330dec4ddcee2da54439cf8f51923b00640dbb8b14c316b",
+    "validFrom": "May 17 00:47:52 2017 GMT",
+    "validTo": "May 15 00:47:52 2027 GMT",
+    "publicKey": "RSA 2048",
+    "signature": "sha256WithRSA"
+  },
+  {
+    "name": "Infotech Self Signed CA",
+    "serialNumber": "01",
+    "fingerprint": "45fbd9e12fe8d03f2e7e7768138a9eec5e7363b6",
+    "fingerprint256": "c070310393b35cecb654348260ff53a22b60ad38ac12fe7f4e8fecddc72d4589",
+    "validFrom": "Aug 21 06:04:45 2019 GMT",
+    "validTo": "Aug 16 06:04:45 2039 GMT",
+    "publicKey": "RSA 2048",
+    "signature": "sha256WithRSA"
+  },
+  {
     "name": "MarkAny",
     "serialNumber": "00d5e3156c045d5f8a",
     "fingerprint": "61e0406de1a3fa0f878e629a67a11033f2f2a391",
@@ -97,6 +137,16 @@
     "validFrom": "Mar 20 07:42:28 2017 GMT",
     "validTo": "Mar 18 07:42:28 2027 GMT",
     "publicKey": "RSA 2048",
+    "signature": "sha256WithRSA"
+  },
+  {
+    "name": "flyhigh-x.com Root Certification Authority",
+    "serialNumber": "00e4ccf5f13a835817665fa7a44ff37fb8",
+    "fingerprint": "981eb0473e2e78443481f4aeb8b7a58f694fd53e",
+    "fingerprint256": "caa2fb591983d4ba07e92990c49931158ffc86c7a2db92d1b661021c7e5a6e11",
+    "validFrom": "May 30 00:00:00 2017 GMT",
+    "validTo": "Jun  1 00:00:00 2027 GMT",
+    "publicKey": "RSA 4096",
     "signature": "sha256WithRSA"
   },
   {
@@ -150,12 +200,32 @@
     "signature": "sha1WithRSA"
   },
   {
+    "name": "KSIGN CO. LTD. CA",
+    "serialNumber": "01",
+    "fingerprint": "b4506ffb4e04ac1a185ae925af2fc195a6251b8c",
+    "fingerprint256": "5ae8d07777d099a157b4247e8ee5611e6dfeef9c66f6be7fb8b21ed1e76a0b1a",
+    "validFrom": "Jul 20 08:22:17 2016 GMT",
+    "validTo": "Jul 18 08:22:17 2026 GMT",
+    "publicKey": "RSA 2048",
+    "signature": "sha256WithRSA"
+  },
+  {
     "name": "VP ROOT CA",
     "serialNumber": "6d39e0f323c46daa47041f31198de03e",
     "fingerprint": "b63b2114434a455bb9ca434f0b315b31595d839c",
     "fingerprint256": "07f9db20320a14ef6d9ab072bf3a52fc2e9daf5d52386638ef21a6d47daf9f97",
     "validFrom": "Nov 25 06:15:45 2014 GMT",
     "validTo": "Nov 25 06:25:45 2044 GMT",
+    "publicKey": "RSA 2048",
+    "signature": "sha256WithRSA"
+  },
+  {
+    "name": "www.securelink.co.kr",
+    "serialNumber": "00ddd770f17a508507",
+    "fingerprint": "ba568051cf89f63ad6bd803dc8bc244427d49f9a",
+    "fingerprint256": "b710569272ca5ac4055d50d83d244bea807d3a9af114b933640cb4429c74405e",
+    "validFrom": "Nov 15 11:43:22 2016 GMT",
+    "validTo": "Nov 13 11:43:22 2026 GMT",
     "publicKey": "RSA 2048",
     "signature": "sha256WithRSA"
   },
