@@ -1,0 +1,222 @@
+[
+  {
+    "name": "WIZVERA-CA-SHA1",
+    "serialNumber": "74b7009ee43bc78fce6973ade1da8b18c5e8725a",
+    "fingerprint": "04c604ddc5d3d37b389d086fff0deae0fd9f52a0",
+    "fingerprint256": "0099692963d91c7ca100ee7f0f6c62635ddc58a3f21f96fa0b0ccdae2e7225a3",
+    "validFrom": "Oct 23 03:05:33 2019 GMT",
+    "validTo": "May  5 03:05:33 2040 GMT",
+    "publicKey": "RSA 2048",
+    "signature": "sha1WithRSA"
+  },
+  {
+    "name": "Hancom Secure Root Authority",
+    "serialNumber": "01",
+    "fingerprint": "057b9535b8c2d165d65051d01228caca4e35bc36",
+    "fingerprint256": "9cdf9c31a3b267fbaa5ae76aad0b594ef7f82da3d51a0b49a9923ab2e84ff535",
+    "validFrom": "Apr 19 11:14:31 2016 GMT",
+    "validTo": "Apr 14 11:14:31 2036 GMT",
+    "publicKey": "RSA 2048",
+    "signature": "sha256WithRSA"
+  },
+  {
+    "name": "Dreamsecurity ROOT CA",
+    "serialNumber": "01",
+    "fingerprint": "0bafec00cc085c92f94fd1f2deca2374c72effda",
+    "fingerprint256": "21d87b0eaa08925fc728caf929a10a4c86602008204ccc7ce0760f70cb37792b",
+    "validFrom": "Sep  3 04:11:34 2015 GMT",
+    "validTo": "Aug 29 04:11:34 2035 GMT",
+    "publicKey": "RSA 2048",
+    "signature": "sha256WithRSA"
+  },
+  {
+    "name": "CA.WBCON.softcamp.co.kr",
+    "serialNumber": "0092a9862b3d565d6b",
+    "fingerprint": "14a5491a3e05ef3403c0c645e20258e793de251f",
+    "fingerprint256": "4e303495685dea2eeb05d02fca55ee231ff1efea29867610fa0e678227b8cdbd",
+    "validFrom": "Jun  8 01:27:47 2017 GMT",
+    "validTo": "Jun  3 01:27:47 2037 GMT",
+    "publicKey": "RSA 4096",
+    "signature": "sha256WithRSA"
+  },
+  {
+    "name": "MarkAny Inc.",
+    "serialNumber": "009b47c30e5b364a9f",
+    "fingerprint": "1a19bae1777ade77011ba4e9672441e5b5e101d5",
+    "fingerprint256": "f353f3eadaf8d7b2bffc23b50f69c74c3a8045130c448ccfa5c204ee9326d127",
+    "validFrom": "Apr 25 04:41:07 2017 GMT",
+    "validTo": "Jun 24 04:41:07 2036 GMT",
+    "publicKey": "RSA 2048",
+    "signature": "sha256WithRSA"
+  },
+  {
+    "name": "MarkAny",
+    "serialNumber": "00d5e3156c045d5f8a",
+    "fingerprint": "61e0406de1a3fa0f878e629a67a11033f2f2a391",
+    "fingerprint256": "eebdc818f94ee6dedec2b995c564a8ab5fb932e2b9a292b868b9a47b8c0a66b4",
+    "validFrom": "Apr 22 00:50:10 2016 GMT",
+    "validTo": "Jun 22 00:50:10 2035 GMT",
+    "publicKey": "RSA 2048",
+    "signature": "sha1WithRSA"
+  },
+  {
+    "name": "KICA NXS Root CA",
+    "serialNumber": "01",
+    "fingerprint": "68c232d21d4b44f3403b0a5f8c92ed88e32804d3",
+    "fingerprint256": "e856a67936dd5e83ea3defce6183beee2cb52a0ce3cb942ad15c744a94a6690c",
+    "validFrom": "Jul 26 06:11:53 2016 GMT",
+    "validTo": "Jul 21 06:11:53 2036 GMT",
+    "publicKey": "RSA 2048",
+    "signature": "sha256WithRSA"
+  },
+  {
+    "name": "INCA Internet Co., Ltd. CA",
+    "serialNumber": "01",
+    "fingerprint": "6c6dfa1ed61736476eda0364d132a786cf3d3475",
+    "fingerprint256": "09e7f9c84e620a52040259ee565e52d3c1a2018b304fb3ab1e59b68e7c858e53",
+    "validFrom": "Apr  2 08:48:41 2015 GMT",
+    "validTo": "Mar 30 08:48:41 2025 GMT",
+    "publicKey": "RSA 2048",
+    "signature": "sha1WithRSA"
+  },
+  {
+    "name": "Crosscert_Trust_Root_CA",
+    "serialNumber": "00fabc4a24bd2e9b71",
+    "fingerprint": "7972d337bfc4775ceed41080885a209c1ed0c89a",
+    "fingerprint256": "4ff058de730604c1741382846fee7448ecc85b69949a8f90bc636fa4169e320d",
+    "validFrom": "Jun 13 01:29:06 2016 GMT",
+    "validTo": "Jun 11 01:29:06 2026 GMT",
+    "publicKey": "RSA 2048",
+    "signature": "sha256WithRSA"
+  },
+  {
+    "name": "Fasoo Secure Web",
+    "serialNumber": "01",
+    "fingerprint": "7a35b4f49043c1fd41042630376d48f2275508af",
+    "fingerprint256": "b81e020d69782fd9619616eb6140cac8f36a98a307cecddb41aa8eb243155eeb",
+    "validFrom": "Mar 20 07:42:28 2017 GMT",
+    "validTo": "Mar 18 07:42:28 2027 GMT",
+    "publicKey": "RSA 2048",
+    "signature": "sha256WithRSA"
+  },
+  {
+    "name": "SCSKWS CA",
+    "serialNumber": "00c3d495b63df9a30c",
+    "fingerprint": "9a52cd487f8352baab91f78d2963f58511e59f59",
+    "fingerprint256": "503ae0fef940f2b1733b2b6d7ee73966a5320497912a82fd39338b2a76249ff6",
+    "validFrom": "Jun  2 06:07:54 2017 GMT",
+    "validTo": "May 28 06:07:54 2037 GMT",
+    "publicKey": "RSA 4096",
+    "signature": "sha256WithRSA"
+  },
+  {
+    "name": "WIZVERA-CA-SHA2",
+    "serialNumber": "20bbeb748527aeaa25fb381926de8dc207102b71",
+    "fingerprint": "9de8690daecf18b1a4acd2b7cee9b35fbba2ddc4",
+    "fingerprint256": "96bd169866a660938d5cc4e9b7e32f6df093ed25df97541c5852093f34507f17",
+    "validFrom": "Oct 23 03:04:08 2019 GMT",
+    "validTo": "May  5 03:04:08 2040 GMT",
+    "publicKey": "RSA 2048",
+    "signature": "sha256WithRSA"
+  },
+  {
+    "name": "INTEREZEN CA",
+    "serialNumber": "00d5412a38cb0e4a01",
+    "fingerprint": "a9a41c09e8b58dd59c97b6f0524bb48d9a15bd4f",
+    "fingerprint256": "38ade39696996d18d240c4b0415c66e6eadf07d752ff5d50328ffbfa7e3c2a49",
+    "validFrom": "Jun  9 07:17:05 2021 GMT",
+    "validTo": "Jun  4 07:17:05 2041 GMT",
+    "publicKey": "RSA 2048",
+    "signature": "sha256WithRSA"
+  },
+  {
+    "name": "Everyone's Printer by PIROGOM",
+    "serialNumber": "97de340d30f5eebf483e335430ae08b8",
+    "fingerprint": "aae1c7faf4c46503ac872434952ed32903191974",
+    "fingerprint256": "522ccb72885d92687224832fdbce6ee38a3ad24cc639dc799a219c66255e0fea",
+    "validFrom": "Nov  3 15:56:34 2018 GMT",
+    "validTo": "Dec 31 23:59:59 2039 GMT",
+    "publicKey": "RSA 1024",
+    "signature": "md5WithRSA"
+  },
+  {
+    "name": "LumenSoft CA",
+    "serialNumber": "00e9fdfd6ee2ef74fc",
+    "fingerprint": "aff497da824897bb508af97c6a7ef5f9dd4d2141",
+    "fingerprint256": "22e99254341d686914af6fb41f23323f4f2effadbcf2777f25447b82453a5439",
+    "validFrom": "Aug  8 06:18:45 2012 GMT",
+    "validTo": "Jul 29 06:18:45 2052 GMT",
+    "publicKey": "RSA 1024",
+    "signature": "sha1WithRSA"
+  },
+  {
+    "name": "VP ROOT CA",
+    "serialNumber": "6d39e0f323c46daa47041f31198de03e",
+    "fingerprint": "b63b2114434a455bb9ca434f0b315b31595d839c",
+    "fingerprint256": "07f9db20320a14ef6d9ab072bf3a52fc2e9daf5d52386638ef21a6d47daf9f97",
+    "validFrom": "Nov 25 06:15:45 2014 GMT",
+    "validTo": "Nov 25 06:25:45 2044 GMT",
+    "publicKey": "RSA 2048",
+    "signature": "sha256WithRSA"
+  },
+  {
+    "name": "SGASolutions LocalCA",
+    "serialNumber": "01",
+    "fingerprint": "c85ca378d35f9b950a84bf7bd583edbbf3294b58",
+    "fingerprint256": "9bfd6fdc8b095fe672589f53c9296f33653c789e5b4c52cd90683a46f17bf35b",
+    "validFrom": "Nov  5 02:16:17 2015 GMT",
+    "validTo": "Nov  4 02:16:17 2045 GMT",
+    "publicKey": "RSA 4096",
+    "signature": "sha256WithRSA"
+  },
+  {
+    "name": "WIZVERA1 CA",
+    "serialNumber": "00f1efea683ed7fc92",
+    "fingerprint": "c95409513e5ec0f1c36f0469a9570d530177b7cf",
+    "fingerprint256": "8d91e827703bdc4543556c2dc62aa11a2fc875a639ccbd25889a01f7ce8fe8fa",
+    "validFrom": "Mar 30 05:58:56 2015 GMT",
+    "validTo": "Mar 25 05:58:56 2035 GMT",
+    "publicKey": "RSA 2048",
+    "signature": "sha1WithRSA"
+  },
+  {
+    "name": "WIZVERA CA",
+    "serialNumber": "009503cdb19397b563",
+    "fingerprint": "db6c6959b07c983885db55740dcd226bb95c187a",
+    "fingerprint256": "3a0f9322ff1371b739caa09fd0ec3489012daa5402fcc242f0062f8caa6ff383",
+    "validFrom": "Dec 18 02:09:50 2014 GMT",
+    "validTo": "Dec 13 02:09:50 2034 GMT",
+    "publicKey": "RSA 2048",
+    "signature": "sha256WithRSA"
+  },
+  {
+    "name": "iniLINE CrossEX RootCA2",
+    "serialNumber": "01",
+    "fingerprint": "dc2f16a0e1af8faf0d3e93eac9aca7315a409c79",
+    "fingerprint256": "22ec41463f63233727dc1cca0e5ecd604faf02bd9212abb04206ba7d1b656a43",
+    "validFrom": "Oct 10 08:28:15 2018 GMT",
+    "validTo": "Dec 31 08:28:15 2099 GMT",
+    "publicKey": "RSA 2048",
+    "signature": "sha256WithRSA"
+  },
+  {
+    "name": "ASTxRoot2",
+    "serialNumber": "009c786262fd7479bd",
+    "fingerprint": "e6e5c1eb1e19e4f89a0c37ddcda50c8b6edddd8f",
+    "fingerprint256": "8a81891c6200605f963355a7d7b379221d4a14f2bc55c969353c04214a7c5685",
+    "validFrom": "Jun 18 04:03:24 2015 GMT",
+    "validTo": "Jun 12 04:03:24 2038 GMT",
+    "publicKey": "RSA 2048",
+    "signature": "sha256WithRSA"
+  },
+  {
+    "name": "KTNET Global Root CA",
+    "serialNumber": "00f715f51ada033029",
+    "fingerprint": "fc513352434494e8b345eec735a47c249d4edc05",
+    "fingerprint256": "6f449e8356931f7ac69151fab7ba7a148d5272e861da9067d389804b8c8fa9b3",
+    "validFrom": "Oct  5 11:02:35 2015 GMT",
+    "validTo": "Sep 30 11:02:35 2035 GMT",
+    "publicKey": "RSA 2048",
+    "signature": "sha256WithRSA"
+  }
+]
