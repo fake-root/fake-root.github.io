@@ -35,7 +35,6 @@ function App() {
               <th className="border p-2">유효 기간(시작)</th>
               <th className="border p-2">유효 기간(끝)</th>
               <th className="border p-2">공개 키</th>
-              <th className="border p-2">서명 알고리즘</th>
               <th className="border p-2"></th>
             </tr>
           </thead>
@@ -65,7 +64,6 @@ function App() {
                   {new Date(c.validTo).toLocaleDateString()}
                 </td>
                 <td className="border p-2 text-center">{c.publicKey}</td>
-                <td className="border p-2 text-center">{c.signature}</td>
                 <td className="border p-2 text-center">
                   <a
                     className="text-sky-500 hover:underline decoration-sky-500 decoration-2"

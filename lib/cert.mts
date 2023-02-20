@@ -12,7 +12,6 @@ type Cert = {
   validFrom: string;
   validTo: string;
   publicKey: string;
-  signature: string;
 };
 
 (async () => {
@@ -32,14 +31,9 @@ type Cert = {
     const asymmetricKeyDetails = cert.publicKey.asymmetricKeyDetails || {};
 
     let serialNumber = cert.serialNumber.toLowerCase();
-    let signature = "";
     try {
       const forgeCert = forge.pki.certificateFromPem(pem.toString());
       serialNumber = forgeCert.serialNumber;
-      signature = (forge.pki.oids[forgeCert.signatureOid] || "").replace(
-        "Encryption",
-        ""
-      );
     } catch {}
 
     certs.push({
@@ -52,7 +46,6 @@ type Cert = {
       publicKey: `${(cert.publicKey.asymmetricKeyType || "").toUpperCase()} ${
         asymmetricKeyDetails.modulusLength || asymmetricKeyDetails.namedCurve
       }`,
-      signature,
     });
   }
   await fs.writeFile(
