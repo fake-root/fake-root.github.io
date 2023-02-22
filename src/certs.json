@@ -63,15 +63,6 @@
     "publicKey": "RSA 2048"
   },
   {
-    "name": "Nagosoft",
-    "serialNumber": "00ae32349bd55d0fb4",
-    "fingerprint": "3f28b60d2a09ef2397bd725b9976cd7fd304f356",
-    "fingerprint256": "15d4ef653225835f9330dec4ddcee2da54439cf8f51923b00640dbb8b14c316b",
-    "validFrom": "May 17 00:47:52 2017 GMT",
-    "validTo": "May 15 00:47:52 2027 GMT",
-    "publicKey": "RSA 2048"
-  },
-  {
     "name": "Infotech Self Signed CA",
     "serialNumber": "01",
     "fingerprint": "45fbd9e12fe8d03f2e7e7768138a9eec5e7363b6",
